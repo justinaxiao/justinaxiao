@@ -186,4 +186,6 @@ const jozyipv6 = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,20&height=200&section=footer" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,20&height=200&section=footer" />
+</p>
