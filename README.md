@@ -80,7 +80,7 @@
     <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,redux,graphql" />
   </a>
 </p>
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <br>
 <!--- GitHub stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JozyIPv6&show_icons=true&theme=radical) -->
