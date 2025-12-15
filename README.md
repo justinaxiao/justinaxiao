@@ -9,7 +9,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=JozyIPv6&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-58A6FF?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Location-Cikarang%2C%20Indonesia-58A6FF?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-Shenzhen%2C%20Guangdong%2C%20China-58A6FF?style=flat-square" alt="Location" />
   <img src="https://img.shields.io/badge/Status-Open%20for%20Opportunities-success?style=flat-square" alt="Status" />
 </p>
 
