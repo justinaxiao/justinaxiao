@@ -1,35 +1,33 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h1 align="center">Hi 👋, I'm Uttam Bodara</h1>
-<h3 align="center">A Passionate Programmer from Gujarat</h3>
+<h1 align="center">Hi 👋, I'm JozyIPv6</h1>
+<h3 align="center">Full Stack Developer at KazuoStore</h3>
 
 <p align="center">
-  I'm a B.Sc. IT student at Parul University, Vadodara, passionate about learning, problem-solving, and communication.  
-  I have skills in various programming languages, accounting, editing, and team collaboration.  
-  Eager to apply my knowledge and creativity to real-world projects in a dynamic environment.  
-  I’m looking for opportunities to grow professionally and contribute to innovative digital solutions.
+  I'm a passionate Full Stack Developer currently working at KazuoStore, specializing in JavaScript ecosystem development.  
+  With expertise in modern web technologies, I build scalable and efficient applications from frontend to backend.  
+  I'm dedicated to creating seamless user experiences and robust server-side solutions while continuously learning new technologies.  
+  Always excited to tackle challenging problems and contribute to innovative digital solutions.
 </p>
 
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
-<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
-<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
+ <img src="https://komarev.com/ghpvc/?username=JozyIPv6&label=Profile%20views&color=0e75b6&style=flat" alt="JozyIPv6" /> 
 </p>
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
 <br>
 
 <div align="center">
+  <img src="https://techstack-generator.vercel.app/firebase-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
@@ -39,19 +37,21 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working on **Prodigy InfoTech**
+- 🏢 Currently working at **KazuoStore** as a Full Stack Developer
 
-- 🌱 I’m currently learning **Devops**
+- 🔭 Working on **E-commerce platforms and web applications**
 
-- 👨‍💻 All of my projects are available at [uttam's workspace](https://github.com/uttambodara)
+- 🌱 Continuously learning **Advanced React patterns, Next.js optimizations, and cloud architectures**
 
-- 💬 Ask me about **Java, Python, PHP and NodeJS**
+- 👨‍💻 All of my projects are available at [JozyIPv6's GitHub](https://github.com/JozyIPv6)
+
+- 💬 Ask me about **JavaScript, React, Next.js, Firebase, MongoDB, Express.js**
 
 - 📫 How to reach me **uttambodra4243@gmail.com**
 
-- 📄 Know about my experiences [my experiences](http://uttambodara.netlify.app)
+- 📄 Portfolio: [jozyipv6.netlify.app](http://jozyipv6.netlify.app)
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Fun fact **I enjoy finding elegant solutions to complex problems**
 
 <br>
 <h3 align="left">Connect with me:</h3>
@@ -64,40 +64,40 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stack:</h3>
 
-- Backend
+- **Frontend**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,java,nodejs,py" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind" />
   </a>
 </p>
 
-- Frontend
+- **Backend**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,figma,html,css" />
+    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,firebase" />
   </a>
 </p>
 
-- Database
+- **Database**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" />
   </a>
 </p>
 
-- Cloud Servers
+- **Tools & Platforms**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma,vercel,netlify" />
   </a>
 </p>
 
-- Tools
+- **Currently Exploring**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux,metasploitable" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,redux,graphql" />
   </a>
 </p>
 
@@ -107,11 +107,12 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
- <br><br>
+<br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!--- just ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=uttambodara&hide=contribs,prs)--->
+<!--- GitHub stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JozyIPv6&show_icons=true&theme=radical) -->
 
 <br>
-<p align="right" > Created with 💕by <a href="http://uttambodara.netlify.com">JozyIPv6</a></p>
+<p align="right"> Crafted with passion by <a href="http://jozyipv6.netlify.app">JozyIPv6</a></p>
