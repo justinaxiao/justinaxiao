@@ -81,12 +81,6 @@
   </a>
 </p>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/uttam7.png" alt="Your Image Badge" />
-
-<br/>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 <!--- GitHub stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JozyIPv6&show_icons=true&theme=radical) -->
 
