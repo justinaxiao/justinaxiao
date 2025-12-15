@@ -163,51 +163,11 @@ const jozyipv6 = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JozyIPv6&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" />
 </div>
 
----
-
-### Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/JozyIPv6/ecommerce-platform">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JozyIPv6&repo=ecommerce-platform&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-</a>
-
-<a href="https://github.com/JozyIPv6/microservices-starter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JozyIPv6&repo=microservices-starter&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-</a>
-
-<a href="https://github.com/JozyIPv6/ui-component-library">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JozyIPv6&repo=ui-component-library&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-</a>
-
-<a href="https://github.com/JozyIPv6/serverless-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JozyIPv6&repo=serverless-api&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-</a>
-
-</div>
-
----
-
-### Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-### Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ### Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uttam-bodra-264882267/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jozyipv6.netlify.app)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:everforever@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jozyipv6)
@@ -226,4 +186,4 @@ const jozyipv6 = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,20&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,20&height=200&section=footer" />
