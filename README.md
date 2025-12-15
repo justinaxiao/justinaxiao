@@ -80,6 +80,7 @@
     <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,redux,graphql" />
   </a>
 </p>
+<br><br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <br>
 <!--- GitHub stats
