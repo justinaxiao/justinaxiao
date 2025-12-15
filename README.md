@@ -14,8 +14,6 @@
  <img src="https://komarev.com/ghpvc/?username=JozyIPv6&label=Profile%20views&color=0e75b6&style=flat" alt="JozyIPv6" /> 
 </p>
 
-<br>
-
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
@@ -29,7 +27,7 @@
 
 - 💬 Ask me about **JavaScript, React, Next.js, Firebase, MongoDB, Express.js**
 
-- 📫 How to reach me **uttambodra4243@gmail.com**
+- 📫 How to reach me **everforever@gmail.com**
 
 - 📄 Portfolio: [jozyipv6.netlify.app](http://jozyipv6.netlify.app)
 
