@@ -87,10 +87,6 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<br><br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 <!--- GitHub stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JozyIPv6&show_icons=true&theme=radical) -->
 
