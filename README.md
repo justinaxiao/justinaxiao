@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,20&height=200&section=header&text=JozyIPv6&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,20&height=200&section=header&text=JustinaXiao&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
 ### Full Stack Developer | Cloud Architect | Open Source Contributor
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Cloud+Native+Architecture;Microservices+%26+Serverless;Performance+Optimization+Expert;Open+Source+Enthusiast" alt="Typing Animation" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=JozyIPv6&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=JustinaXiao&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-58A6FF?style=flat-square" alt="Focus" />
   <img src="https://img.shields.io/badge/Location-Shenzhen%2C%20Guangdong%2C%20China-58A6FF?style=flat-square" alt="Location" />
   <img src="https://img.shields.io/badge/Status-Open%20for%20Opportunities-success?style=flat-square" alt="Status" />
@@ -18,8 +18,8 @@
 ---
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=JozyIPv6&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=JozyIPv6&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=58A6FF" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=JustinaXiao&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=JustinaXiao&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=58A6FF" />
 </div>
 
 ---
@@ -27,8 +27,8 @@
 ### About Me
 
 ```typescript
-const jozyipv6 = {
-  name: "JozyIPv6",
+const JustinaXiao = {
+  name: "JustinaXiao",
   role: "Senior Full Stack Developer",
   company: "KazuoStore",
   location: "Shenzen, Guangdong, China",
@@ -155,12 +155,12 @@ const jozyipv6 = {
 ### GitHub Analytics
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JozyIPv6&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
-  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=JozyIPv6&limit=5&theme=github_dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinaXiao&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=JustinaXiao&limit=5&theme=github_dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JozyIPv6&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JustinaXiao&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" />
 </div>
 
 ### Connect With Me
@@ -168,11 +168,11 @@ const jozyipv6 = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jozyipv6.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://JustinaXiao.netlify.app)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:everforever@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jozyipv6)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/jozyipv6)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/jozyipv6)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JustinaXiao)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/JustinaXiao)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/JustinaXiao)
 
 </div>
 
