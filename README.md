@@ -30,7 +30,7 @@
 const JustinaXiao = {
   name: "JustinaXiao",
   role: "Senior Full Stack Developer",
-  company: "KazuoStore",
+  company: "DeepSearchITL",
   location: "Shenzen, Guangdong, China",
   
   currentFocus: [
