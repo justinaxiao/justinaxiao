@@ -16,6 +16,12 @@
 </div>
 
 ---
+<div align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=JustinaXiao&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=JustinaXiao&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=58A6FF" />
+</div>
+
+---
 
 ### About Me
 
