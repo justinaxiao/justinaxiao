@@ -183,20 +183,18 @@ const JustinaXiao = {
 
 <br>
 
-## 📊 GitHub Metrics
+## 📊 GitHub Statistics
 
 <div align="center">
-
-<!-- Isocalendar -->
-<img src="https://metrics.lecoq.io/JustinaXiao?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FShanghai" alt="Metrics" width="100%">
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JustinaXiao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=JustinaXiao&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1D9" />
 </div>
 
 <br>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JustinaXiao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=JustinaXiao&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1D9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinaXiao&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=10&hide=html,css" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=JustinaXiao&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
 </div>
 
 <br>
@@ -208,16 +206,67 @@ const JustinaXiao = {
 
 <br>
 
-<!-- Most Used Languages & Recent Activity -->
+<!-- Trophy -->
 <div align="center">
-  <img src="https://metrics.lecoq.io/JustinaXiao?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&activity=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Asia%2FShanghai" alt="Metrics" width="100%">
+  <img src="https://github-profile-trophy.vercel.app/?username=JustinaXiao&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%"/>
 </div>
 
 <br>
 
-<!-- Trophy -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+## 📅 Contribution Calendar & Languages
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JustinaXiao&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%"/>
+
+![](https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg)
+
+</div>
+
+<br>
+
+<div align="center">
+
+![](https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.indepth.svg)
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+![](https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.compact.svg)
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+## 💡 Coding Habits & Activity
+
+<div align="center">
+
+![](https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.charts.svg)
+
+</div>
+
+<br>
+
+<div align="center">
+
+![](https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.facts.svg)
+
 </div>
 
 <br>
@@ -275,18 +324,6 @@ const JustinaXiao = {
 
 <br>
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/JustinaXiao?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FShanghai" alt="Achievements" width="100%">
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
 ## 💡 Development Philosophy
 
 <div align="center">
@@ -315,16 +352,11 @@ const JustinaXiao = {
 
 <br>
 
-## 🌟 Featured Projects
+## 🌟 Featured Repositories
 
 <div align="center">
 
-<a href="https://github.com/JustinaXiao/project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JustinaXiao&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/JustinaXiao/project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JustinaXiao&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
-</a>
+![](https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.repositories.svg)
 
 </div>
 
