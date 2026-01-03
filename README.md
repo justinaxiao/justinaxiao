@@ -4,21 +4,22 @@
 
 <br>
 
-<!-- Animated Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%9A%80+Building+Scalable+Web+Applications;%E2%98%81%EF%B8%8F+Cloud+Native+Architecture+%7C+Microservices;%F0%9F%94%A5+Performance+Optimization+%7C+Open+Source+Enthusiast" alt="Typing SVG" />
+<!-- Animated Typing with Icons -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=⚡+Building+Scalable+Web+Applications;☁️+Cloud+Native+Architecture+%7C+Microservices;🔥+Performance+Optimization+%7C+Open+Source+Enthusiast" alt="Typing SVG" />
 
 <br>
 
-<!-- Fancy Badges -->
+<!-- Premium Badges with SVG Icons -->
 <p>
-  <img src="https://img.shields.io/badge/🎯_Focus-Full_Stack_Development-00D9FF?style=for-the-badge&labelColor=1a1a2e&color=16213e" />
-  <img src="https://img.shields.io/badge/📍_Location-Shenzhen,_China-00D9FF?style=for-the-badge&labelColor=1a1a2e&color=16213e" />
-  <img src="https://img.shields.io/badge/💼_Status-Open_to_Opportunities-00D9FF?style=for-the-badge&labelColor=1a1a2e&color=success" />
+  <img src="https://custom-icon-badges.demolab.com/badge/-Full_Stack_Development-00D9FF?style=for-the-badge&logo=code&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://custom-icon-badges.demolab.com/badge/-Shenzhen,_China-00D9FF?style=for-the-badge&logo=location&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://custom-icon-badges.demolab.com/badge/-Open_to_Opportunities-success?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=1a1a2e" />
 </p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=JustinaXiao&label=Profile%20Views&color=00D9FF&style=for-the-badge&labelColor=1a1a2e" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/JustinaXiao?label=Followers&style=for-the-badge&color=00D9FF&labelColor=1a1a2e" alt="followers" />
+  <img src="https://custom-icon-badges.demolab.com/github/followers/JustinaXiao?logo=people&label=Followers&style=for-the-badge&color=00D9FF&labelColor=1a1a2e" alt="followers" />
+  <img src="https://custom-icon-badges.demolab.com/github/stars/JustinaXiao?logo=star&style=for-the-badge&color=FFD700&labelColor=1a1a2e" alt="stars" />
 </p>
 
 </div>
@@ -30,11 +31,11 @@
 
 <br>
 
-## 🎭 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="40" height="40" /> About Me
 
 ```typescript
 const JustinaXiao = {
-  title: "Senior Full Stack Developer 🚀",
+  title: "Senior Full Stack Developer",
   company: "DeepSearchITL",
   location: "Shenzhen, Guangdong, China 🇨🇳",
   
@@ -80,7 +81,7 @@ const JustinaXiao = {
   architecture: ["Microservices", "Serverless", "Event-Driven", "Monorepo"],
   principles: ["Clean Code", "SOLID", "DRY", "KISS", "TDD", "CI/CD"],
   
-  funFact: "I debug with console.log() and I'm not ashamed! 😎"
+  funFact: "I debug with console.log() and I'm not ashamed!"
 };
 ```
 
@@ -91,11 +92,11 @@ const JustinaXiao = {
 
 <br>
 
-## 🛠️ Tech Arsenal
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="40" height="40" /> Tech Arsenal
 
 <div align="center">
 
-### Frontend Magic ✨
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Frontend Magic
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -108,7 +109,7 @@ const JustinaXiao = {
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 ![ShadCN](https://img.shields.io/badge/ShadCN/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
-### Backend Power ⚡
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Voltage" width="25" height="25" /> Backend Power
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -119,7 +120,7 @@ const JustinaXiao = {
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Database & Storage 💾
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Floppy%20Disk.png" alt="Database" width="25" height="25" /> Database & Storage
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -128,7 +129,7 @@ const JustinaXiao = {
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### Cloud & DevOps ☁️
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="Cloud" width="25" height="25" /> Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -140,7 +141,7 @@ const JustinaXiao = {
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-### Testing & Quality 🧪
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png" alt="Test" width="25" height="25" /> Testing & Quality
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
@@ -148,7 +149,7 @@ const JustinaXiao = {
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 
-### Tools & Environment 🔧
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Tools" width="25" height="25" /> Tools & Environment
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -165,7 +166,7 @@ const JustinaXiao = {
 
 <br>
 
-## 📊 GitHub Statistics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="40" height="40" /> GitHub Statistics
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JustinaXiao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true&include_all_commits=true&rank_icon=github" />
@@ -199,28 +200,28 @@ const JustinaXiao = {
 
 <br>
 
-## 🎯 Current Focus
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="40" height="40" /> Current Focus
 
 <table align="center">
   <tr>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/react-native.png" width="60"/>
-      <br><b>Modern Frontend</b>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="80"/>
+      <br><br><b>Modern Frontend</b>
       <br><sub>Building next-gen UIs with React & Next.js</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/cloud.png" width="60"/>
-      <br><b>Cloud Architecture</b>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fog.png" width="80"/>
+      <br><br><b>Cloud Architecture</b>
       <br><sub>Designing scalable serverless systems</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/api-settings.png" width="60"/>
-      <br><b>Microservices</b>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="80"/>
+      <br><br><b>Microservices</b>
       <br><sub>GraphQL, tRPC & event-driven design</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/open-source.png" width="60"/>
-      <br><b>Open Source</b>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="80"/>
+      <br><br><b>Open Source</b>
       <br><sub>Contributing to the community</sub>
     </td>
   </tr>
@@ -233,19 +234,23 @@ const JustinaXiao = {
 
 <br>
 
-## 💡 Philosophy
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Bulb" width="40" height="40" /> Philosophy
 
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought" width="60"/>
+
+### "Code is like humor. When you have to explain it, it's bad."
+#### — Cory House
+
+<br>
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║   "Code is like humor. When you have to explain it,         ║
-║    it's bad." - Cory House                                   ║
-║                                                              ║
-║   Clean Code > Clever Code                                   ║
-║   Simple Solutions > Complex Solutions                       ║
-║   User Experience > Developer Experience > Everything Else   ║
+║   ✨ Clean Code > Clever Code                               ║
+║   🎯 Simple Solutions > Complex Solutions                    ║
+║   💎 User Experience > Developer Experience > Everything     ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -259,7 +264,7 @@ const JustinaXiao = {
 
 <br>
 
-## 🌟 Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="40" height="40" /> Featured Projects
 
 <div align="center">
 
@@ -280,28 +285,48 @@ const JustinaXiao = {
 
 <br>
 
-## 📫 Let's Connect
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="40" height="40" /> Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/justinaxiao)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/justinaxiao)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justinaxiao@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://justinaxiao.dev)
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/justinaxiao)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/justinaxiao)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justinaxiao@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://justinaxiao.dev)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/justinaxiao)
+
+<br>
+<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="80"/>
+
+### Open for collaborations, freelance projects, and interesting conversations!
 
 <br>
 
-### 💬 Open for collaborations, freelance projects, and interesting conversations!
-
-<sub>⭐️ Building the future, one commit at a time | Always learning, always growing ⭐️</sub>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="30"/> <sub>Building the future, one commit at a time | Always learning, always growing</sub> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="30"/>
 
 </div>
 
 <br>
+<br>
 
 <!-- Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
+
+<!-- Metrics -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25"/> <b>Coding Streak: Keep the momentum going!</b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25"/>
 </div>
 
 <br>
