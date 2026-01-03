@@ -187,25 +187,17 @@ const JustinaXiao = {
 
 <div align="center">
 
-<!-- GitHub Stats Cards -->
-<table>
-  <tr>
-    <td colspan="3" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=justinaxiao&theme=tokyonight" width="100%" alt="Profile Summary"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://github-readme-stats.vercel.app/api?username=justinaxiao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true&include_all_commits=true&rank_icon=github" width="100%"/>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=justinaxiao&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1D9" width="100%"/>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinaxiao&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8&hide=html,css" width="100%"/>
-    </td>
-  </tr>
-</table>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=justinaxiao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true&include_all_commits=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=justinaxiao&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1D9" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinaxiao&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=10&hide=html,css" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=justinaxiao&theme=tokyonight" />
 
 </div>
 
@@ -221,34 +213,6 @@ const JustinaXiao = {
 <!-- Trophy -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=justinaxiao&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%"/>
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://metrics.lecoq.io/justinaxiao?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FShanghai" width="100%" alt="GitHub Achievements"/>
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 💡 Coding Habits & Activity
-
-<div align="center">
-
-<img src="https://metrics.lecoq.io/justinaxiao?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&habits=1&habits.from=200&habits.days=14&habits.facts=true&habits.charts=true&habits.trim=false&config.timezone=Asia%2FShanghai" width="100%" alt="Coding Habits"/>
-
 </div>
 
 <br>
@@ -325,20 +289,6 @@ const JustinaXiao = {
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 🌟 Featured Repositories
-
-<div align="center">
-
-<img src="https://metrics.lecoq.io/justinaxiao?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&repositories=1&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&config.timezone=Asia%2FShanghai" width="100%" alt="Featured Repositories"/>
 
 </div>
 
