@@ -13,21 +13,21 @@
 
 <!-- Premium Badges -->
 <p>
-  <a href="https://github.com/JustinaXiao">
+  <a href="https://github.com/justinaxiao">
     <img src="https://img.shields.io/badge/Full%20Stack-Developer-00D9FF?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1a1a2e" />
   </a>
-  <a href="https://github.com/JustinaXiao">
+  <a href="https://github.com/justinaxiao">
     <img src="https://img.shields.io/badge/Shenzhen-China-00D9FF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a2e" />
   </a>
-  <a href="https://github.com/JustinaXiao">
+  <a href="https://github.com/justinaxiao">
     <img src="https://img.shields.io/badge/Status-Available-success?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=1a1a2e" />
   </a>
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=JustinaXiao&label=Profile%20Views&color=00D9FF&style=for-the-badge&labelColor=1a1a2e" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/JustinaXiao?logo=github&style=for-the-badge&color=00D9FF&labelColor=1a1a2e&label=Followers" alt="followers" />
-  <img src="https://img.shields.io/github/stars/JustinaXiao?logo=github&style=for-the-badge&color=FFD700&labelColor=1a1a2e&label=Total%20Stars" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=justinaxiao&label=Profile%20Views&color=00D9FF&style=for-the-badge&labelColor=1a1a2e" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/justinaxiao?logo=github&style=for-the-badge&color=00D9FF&labelColor=1a1a2e&label=Followers" alt="followers" />
+  <img src="https://img.shields.io/github/stars/justinaxiao?logo=github&style=for-the-badge&color=FFD700&labelColor=1a1a2e&label=Total%20Stars" alt="stars" />
 </p>
 
 </div>
@@ -186,51 +186,56 @@ const JustinaXiao = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JustinaXiao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=JustinaXiao&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1D9" />
+
+<!-- Total Commits Counter -->
+<table>
+  <tr>
+    <td align="center" style="padding: 20px;">
+      <a href="https://github.com/justinaxiao">
+        <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/justinaxiao&query=$.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=00D9FF&labelColor=1a1a2e" />
+      </a>
+    </td>
+    <td align="center" style="padding: 20px;">
+      <a href="https://github.com/justinaxiao">
+        <img src="https://img.shields.io/badge/Total%20Commits-44.4K%2B-00D9FF?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a2e" />
+      </a>
+    </td>
+    <td align="center" style="padding: 20px;">
+      <a href="https://github.com/justinaxiao">
+        <img src="https://img.shields.io/github/commit-activity/y/justinaxiao/justinaxiao?style=for-the-badge&logo=github&color=00D9FF&labelColor=1a1a2e&label=Commits%20This%20Year" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 <br>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinaXiao&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=10&hide=html,css" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=JustinaXiao&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=justinaxiao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=justinaxiao&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1D9" />
+</div>
+
+<br>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinaxiao&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=10&hide=html,css" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=justinaxiao&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
 </div>
 
 <br>
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JustinaXiao&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=justinaxiao&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" width="100%"/>
 </div>
 
 <br>
 
 <!-- Trophy -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JustinaXiao&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%"/>
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 📅 Contribution Calendar & Languages
-
-<div align="center">
-
-![](https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg)
-
-</div>
-
-<br>
-
-<div align="center">
-
-![](https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.indepth.svg)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=justinaxiao&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%"/>
 </div>
 
 <br>
@@ -243,7 +248,7 @@ const JustinaXiao = {
 
 <div align="center">
 
-![](https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.compact.svg)
+![Metrics](https://metrics.lecoq.io/justinaxiao?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FShanghai)
 
 </div>
 
@@ -257,15 +262,7 @@ const JustinaXiao = {
 
 <div align="center">
 
-![](https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.charts.svg)
-
-</div>
-
-<br>
-
-<div align="center">
-
-![](https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.facts.svg)
+![Metrics](https://metrics.lecoq.io/justinaxiao?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&habits=1&habits.from=200&habits.days=14&habits.facts=true&habits.charts=true&habits.trim=false&config.timezone=Asia%2FShanghai)
 
 </div>
 
@@ -356,7 +353,7 @@ const JustinaXiao = {
 
 <div align="center">
 
-![](https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.repositories.svg)
+![Metrics](https://metrics.lecoq.io/justinaxiao?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&repositories=1&repositories.featured=justinaxiao%2Fjustinaxiao&config.timezone=Asia%2FShanghai)
 
 </div>
 
@@ -374,7 +371,7 @@ const JustinaXiao = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/justinaxiao)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/justinaxiao)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JustinaXiao)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/justinaxiao)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justinaxiao@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://justinaxiao.dev)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/justinaxiao)
